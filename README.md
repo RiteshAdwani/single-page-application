@@ -5,6 +5,7 @@
 - In a SPA, a page refresh never occurs.
 - This website is an example of SPA, that means, on clicking any link for a section, the website isn't refreshed and directly scrolls to that section.
 - In this website, there are 5 sections : Home, Services, Work, Images and About.
+- Live Demonstration : [Single Page Application](https://riteshadwani.github.io/single-page-application/)
 
 ---
 
